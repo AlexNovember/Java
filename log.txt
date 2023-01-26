@@ -1,0 +1,8 @@
+янв. 26, 2023 7:22:25 PM calc_log main
+INFO: Ввели 1 цифру 5
+янв. 26, 2023 7:22:26 PM calc_log main
+INFO: Ввели 2 цифру 6
+янв. 26, 2023 7:22:29 PM calc_log main
+INFO: Ввели знак +
+янв. 26, 2023 7:22:29 PM calc_log main
+INFO: Результат 11

@@ -5,7 +5,7 @@ import java.util.Scanner;
 /**
  * Sem1
  */
-public class Sem1 {
+public class program1 {
     public static void main(String[] args) {
         String encoding = System.getProperty("console.encoding","cp866");
         Scanner iScanner = new Scanner(System.in,encoding);
@@ -66,4 +66,3 @@ public class Sem1 {
         
 
     }
-}

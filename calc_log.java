@@ -17,7 +17,8 @@ public class calc_log {
         FileHandler fh = new FileHandler("log.txt");
         
         logger.addHandler(fh);
-  
+        logger.setUseParentHandlers(false);
+
   
         // XMLFormatter xml = new XMLFormatter();
         SimpleFormatter sFormat = new SimpleFormatter();

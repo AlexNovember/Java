@@ -42,7 +42,6 @@ import java.util.Stack;
 //         System.out.println("Исходный список:" + list);
 //     }
 // }
-import java.util.LinkedList;
 
 public class homework4 {
     public static void main(String[] args) {

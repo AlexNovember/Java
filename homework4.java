@@ -31,18 +31,6 @@ import java.util.Stack;
 элемент из очереди, 
 не удаляя.*/
 
-// public class homework4 {
-// 	public static void main(String[] args) {
-//         LinkedList<String> list = new LinkedList<>();
-//         list.add("1 element");
-//         System.out.println("Исходный список:" + list);
-//         list.addLast("2 element");
-//         System.out.println("Исходный список:" + list);
-//         list.addFirst("3 element");
-//         System.out.println("Исходный список:" + list);
-//     }
-// }
-
 public class homework4 {
     public static void main(String[] args) {
         LinkedList<String> list = new LinkedList<>();
